@@ -1,5 +1,5 @@
 {
-  "name": "sentry",
+  "name": "project-title",
   "version": "1.2.0",
   "engines": {
     "node": ">10.4.*"
@@ -36,6 +36,7 @@
     "express-list-endpoints": "^3.0.0",
     "helmet": "^3.13.0",
     "jest-junit-reporter": "^1.1.0",
+    "lumie": "^0.1.0",
     "mongoose": "^4.13.6",
     "morgan": "^1.9.0",
     "unsplash-api": "^1.2.0",
